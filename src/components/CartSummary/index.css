@@ -1,0 +1,26 @@
+.total-head {
+  color: #616e7c;
+  font-size: 18px;
+}
+.total-span {
+  color: #171f46;
+}
+.total-para {
+  color: #616e7c;
+}
+.checkout-button {
+  background-color: #0b69ff;
+  border: none;
+  color: #ffffff;
+  padding: 5px;
+  border-radius: 3px;
+  font-size: 10px;
+  height: 30px;
+  width: 180px;
+}
+.cart-summary-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  align-items: flex-end;
+}
